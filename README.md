@@ -1,6 +1,6 @@
 ![Findroid banner](images/findroid-banner.png)
 
-# Findroid (bleeding)
+# Findroid (bleeding) test
 
 ## Difference from upstream
 Findroid has quite a few open pull requests which add great new features, which have not yet been merged due to a lack of time from the upstream maintainer. Because I'd still like to use all these new features together, I've decided to make a soft fork which carelessly merges (some of) these open pull requests. I don't extensively test or review these, so bugs are very much to be expected. Use this if you like to be on the bleeding edge of findroid's new features. 
